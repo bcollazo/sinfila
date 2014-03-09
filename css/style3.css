@@ -1,0 +1,14 @@
+.numero {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+.velocidad {
+    color: green;
+}
+
+

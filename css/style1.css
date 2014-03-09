@@ -1,0 +1,10 @@
+.numero {
+    font-size: 3em;
+    font-weight: bold;
+    color: rgba(3, 100, 52, 1);
+}
+
+body {
+    background-color: rgba(251,226,191,1);
+    font-weight: bold;
+}
